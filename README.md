@@ -1,4 +1,6 @@
-# shoping_cart
+# Shoping cart
+#Bloc Statemanagment
+#API
 
 A new Flutter project.
 
